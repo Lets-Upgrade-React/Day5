@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title" : "1984 - George Orwel",
+        "desc" : "Among the seminal texts of the 20th century, Nineteen Eighty-Four is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949, the book offers political satirist George Orwell's nightmarish vision of a totalitarian, bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life—the ubiquity of television, the distortion of the language—and his ability to construct such a thorough version of hell.",
+        "price" : "249",
+        "url" : "https://images-na.ssl-images-amazon.com/images/I/51lzkvNlTBL.jpg"
+    },
+    {
+        "id": 2,
+        "title" : "The First Lady - James Patterson",
+        "desc" : "'Sir, the First Lady ... has gone rogue.' President Tucker is caught up in a media firestorm. The scandal of his affair has sent shockwaves through his re-election campaign, and threatens to derail everything he has worked for. To win the vote, he needs the First Lady to stand by his side. But Grace Tucker has a mind of her own. After years of compromise, unfulfilled promises, deception and betrayal, Grace refuses to give in to her husband's demands.",
+        "price" : "563",
+        "url" : "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535015989l/40242245._SY475_.jpg"
+    },
+    {
+        "id": 3,
+        "title" : "It's No Longer A Dream - Sanjeev Ranjan",
+        "desc" : "It’s No Longer A Dream is all about collecting the shattered pieces of meaning of life, love and relationships and bringing them back to a whole again.",
+        "price" : "299",
+        "url" : "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391176882l/20661129.jpg"
+    },
+    {
+        "id": 4,
+        "title" : "Julius Caesar - William Shakespeare",
+        "desc" : "The Oxford School Shakespeare has become the preferred introduction to the literary legacy of the greatest playwright in the English language.",
+        "price" : "140",
+        "url" : "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354574927l/13006.jpg"
+    },
+    {
+        "id": 5,
+        "title" : "The Medusa Amulet - Robert Masello",
+        "desc" : "A Fable About Living Your Best Life From The Monk Who Sold His Ferrari A Story of Breathtaking Power and Dazzling Suspense About What It Means To Be Fully Alive Jonathan Landry is a man in trouble",
+        "price" : "199",
+        "url" : "https://images-na.ssl-images-amazon.com/images/I/51EdYb-d5BL._SX321_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 6,
+        "title" : "11 Hours - Daniel paul singh",
+        "desc" : "As you read this, a flurry of thoughts run through your mind, right from wondering how different this book is going to be from the umpteen other books you have browsed.",
+        "price" : "179",
+        "url" : "https://images-na.ssl-images-amazon.com/images/I/51qswW26s5L._SX333_BO1,204,203,200_.jpg"
+    }
+]
